@@ -11,6 +11,7 @@ animal.makeSound();
 Dear bambi =new Dear();
 bambi.makeSound();
 bambi.eatGrass();
+bambi.metodaAnimal();
 
 Lion simba = new Lion();
 simba.makeSound();

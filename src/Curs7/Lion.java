@@ -1,7 +1,8 @@
 package Curs7;
 
 public class Lion extends Animal{
-
+	
+    //@ override
 	public void makeSound() {
 		System.out.println(" roarr");
 	}
