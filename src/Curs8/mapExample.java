@@ -21,7 +21,7 @@ for(String value: map.values()) {
 	System.out.println(value);
 }
 System.out.println(map);
-System.out.println(map.get("T"));
+System.out.println(map.get("T"));//get cauta in key
 System.out.println(map.containsKey("T"));
 }
 
